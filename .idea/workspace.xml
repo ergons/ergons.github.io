@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df1fd3e8-b338-4066-be2a-10d450d8b4b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/0 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-light1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-light2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon1.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,13 +117,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="2" />
-          <entry key="html" value="1511" />
+          <entry key="html" value="1517" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="HTML" value="1511" />
+          <entry key="HTML" value="1517" />
         </counts>
       </usages-collector>
     </session>
@@ -140,8 +133,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-253">
-              <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+            <state relative-caret-position="68">
+              <caret line="130" column="73" lean-forward="true" selection-start-line="130" selection-start-column="73" selection-end-line="130" selection-end-column="73" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -210,7 +203,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.t1</find>
       <find>t1</find>
       <find>images/c</find>
       <find>ai po</find>
@@ -240,6 +232,7 @@
       <find>ergons</find>
       <find>.fs</find>
       <find>log</find>
+      <find>work</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -353,6 +346,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="812" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -538,8 +532,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-253">
-          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        <state relative-caret-position="68">
+          <caret line="130" column="73" lean-forward="true" selection-start-line="130" selection-start-column="73" selection-end-line="130" selection-end-column="73" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
