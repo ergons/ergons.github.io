@@ -90,7 +90,7 @@
         <div class="col-md-6 col-lg-5 my-3 wow fadeInUp">
           <div class="card-page">
             <h3 class="fw-normal">Get in touch</h3>
-            <form method="POST" class="mt-3" data-email="info@ergons.tech" action="https://script.google.com/macros/s/AKfycbzHCY4zzkywbqaWvDVH82Ee2VtGX7b4xOf3YzkDKWUyfR0cddjy4MRvGlRFXfBOUvSVuQ/exec">
+            <form method="POST" class="gform" data-email="info@ergons.tech" action="https://script.google.com/macros/s/AKfycbzHCY4zzkywbqaWvDVH82Ee2VtGX7b4xOf3YzkDKWUyfR0cddjy4MRvGlRFXfBOUvSVuQ/exec">
               <div class="form-group">
                 <label for="name" class="fw-medium fg-grey">Fullname</label>
                 <input type="text" class="form-control" name="name" id="name">
@@ -134,6 +134,11 @@
               <div class="form-group mt-4">
                 <button type="submit" class="btn btn-primary">Send Query</button>
               </div>
+              <div style="display:none" class="thankyou_message">
+ <!-- You can customize the thankyou message by editing the code below -->
+ <h2><em>Thanks</em> for contacting us! We will get back to you soon!
+ </h2>
+</div>
             </form>
           </div>
 
@@ -259,6 +264,8 @@
 <script src="./assets/vendor/wow/wow.min.js"></script>
 
 <script src="./assets/js/mobster.js"></script>
+<script data-cfasync="false" type="text/javascript" src="./assets/js/form-submission-handler.js"></script>
+
 
 <!--<script src="./assets/js/google-maps.js"></script>-->
 
